@@ -1,4 +1,4 @@
-### LAB E-Commerce
+# LAB E-Commerce
 
 ### O que funciona
 - Filtros de nome, valor mínimo e máximo em conjunto.
